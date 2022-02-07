@@ -8,4 +8,4 @@
 <p align = "justify"> Pleas note, our membership assignment relies on the astrometric solution, and we only used the Gaia eDR3 photometry to manually confirm that the groups identified matched the expected aspect of a cluster in a color-magnitude diagram.
 </p>
 
-To determine the membership of open cluster NGC 752, we will use a module in python called [hdbscan](https://hdbscan.readthedocs.io/en/latest/) (McInnes et al. 2017). Make sure your machine has installed all the packages needed to run this project.
+To determine the membership of open cluster NGC 752, we will use a module in python called [hdbscan](https://hdbscan.readthedocs.io/en/latest/) (McInnes et al. 2017). Make sure your machine has installed all the packages needed to run this project. Enjoy!
